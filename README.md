@@ -4,5 +4,5 @@ I'm a People Analytics analyst currently working at a software company in Campin
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-gomes93&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gomes93&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor-gomes93&layout=compact&theme=radical)
 
