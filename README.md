@@ -8,4 +8,12 @@ I'm a People Analytics analyst currently working at a software company in Campin
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://github.com/higor-gomes93/images/blob/main/Facebook.png?raw=true" />]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://github.com/higor-gomes93/images/blob/main/Facebook.png?raw=true" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/higor-gomes93/images/blob/main/Twitter.png?raw=true" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/higor-gomes93/images/blob/main/LinkedIn.png?raw=true" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/higor-gomes93/images/blob/main/Instagram.png?raw=true" />][instagram]
+
+[facebook]: https://www.facebook.com/higorgomes93
+[twitter]: https://twitter.com/higorgomes_93
+[linkedin]: https://www.linkedin.com/in/higorgomes93/
+[instagram]: https://www.instagram.com/higorgomes93/
