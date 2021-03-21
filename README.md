@@ -13,6 +13,19 @@ I'm a People Analytics analyst currently working at a software company in Campin
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://github.com/higor-gomes93/images/blob/main/LinkedIn.png?raw=true" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Instagram.png?raw=true" />][instagram]
 
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/higor-gomes93/images/blob/main/VSCode.png?raw=true" />
+<img align="left" alt="Anaconda" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Anaconda.png?raw=true" />
+<img align="left" alt="Grafana" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Grafana.png?raw=true" />
+<img align="left" alt="Python" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Python.png?raw=true" />
+<img align="left" alt="Jupyter" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Jupyter.png?raw=true" />
+<img align="left" alt="R" width="30px" src="https://github.com/higor-gomes93/images/blob/main/R.png?raw=true" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/higor-gomes93/images/blob/main/JavaScript.png?raw=true" />
+<img align="left" alt="Git" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Git.png?raw=true" />
+
 [facebook]: https://www.facebook.com/higorgomes93
 [twitter]: https://twitter.com/higorgomes_93
 [linkedin]: https://www.linkedin.com/in/higorgomes93/
