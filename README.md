@@ -16,7 +16,7 @@ I'm a People Analytics analyst currently working at a software company in Campin
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Twitter.png?raw=true" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://github.com/higor-gomes93/images/blob/main/LinkedIn.png?raw=true" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Instagram.png?raw=true" />][instagram]
-[<img align="left" alt="codeSTACKr | Medium" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Medium.png?raw=true" />][Medium]
+[<img align="left" alt="codeSTACKr | Medium" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Medium.png?raw=true" />][medium]
 
 <br />
 
@@ -35,3 +35,4 @@ I'm a People Analytics analyst currently working at a software company in Campin
 [twitter]: https://twitter.com/higorgomes_93
 [linkedin]: https://www.linkedin.com/in/higorgomes93/
 [instagram]: https://www.instagram.com/higorgomes93/
+[medium]: https://higorgomes93.medium.com/
