@@ -30,6 +30,10 @@ I'm a People Analytics analyst currently working at a propetch company in São P
 <img align="left" alt="R" width="30px" src="https://github.com/higor-gomes93/images/blob/main/R.png?raw=true" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/higor-gomes93/images/blob/main/JavaScript.png?raw=true" />
 <img align="left" alt="Git" width="30px" src="https://github.com/higor-gomes93/images/blob/main/Git.png?raw=true" />
+<img align="left" alt="PowerBI" width="30px" src="https://github.com/higor-gomes93/images/blob/main/PowerBI.png?raw=true" />
+<img align="left" alt="DataStudio" width="30px" src="https://github.com/higor-gomes93/images/blob/main/DataStudio.png?raw=true" />
+<img align="left" alt="AWS" width="30px" src="https://github.com/higor-gomes93/images/blob/main/AWS.png?raw=true" />
+
 
 [facebook]: https://www.facebook.com/higorgomes93
 [twitter]: https://twitter.com/higorgomes_93
